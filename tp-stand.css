@@ -14,10 +14,7 @@ form input{
     margin-right: 2rem;
 }
 #resultat{
-    inline-block;
     margin-top: 5rem;
     text-align: center;
-    background-color: aqua;
-    width: 200px;
-    margin-left: 30rem;
+    color: aqua;
 }
