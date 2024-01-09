@@ -1,0 +1,23 @@
+body{
+background-image: radial-gradient(circle at 11% 32%, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.04) 5%,transparent 5%, transparent 95%),radial-gradient(circle at 89% 30%, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.04) 5%,transparent 5%, transparent 95%),radial-gradient(circle at 76% 90%, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0.03) 6%,transparent 6%, transparent 94%),radial-gradient(circle at 83% 14%, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0.03) 6%,transparent 6%, transparent 94%),radial-gradient(circle at 62% 81%, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0.03) 6%,transparent 6%, transparent 94%),radial-gradient(circle at 34% 3%, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0.03) 6%,transparent 6%, transparent 94%),radial-gradient(circle at 19% 1%, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.04) 4%,transparent 4%, transparent 96%),radial-gradient(circle at 48% 14%, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.04) 4%,transparent 4%, transparent 96%),radial-gradient(circle at 54% 23%, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.04) 4%,transparent 4%, transparent 96%),radial-gradient(circle at 10% 37%, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.04) 4%,transparent 4%, transparent 96%),linear-gradient(90deg, rgb(54, 234, 239),rgb(107, 10, 201));
+}
+h1{
+    text-align: center;
+    margin: 3rem 0 5rem 0;
+}
+form{
+    text-align: center;
+}
+form input{
+    border: none;
+    border-radius: 30px;
+    margin-right: 2rem;
+}
+#resultat{
+    inline-block;
+    margin-top: 5rem;
+    text-align: center;
+    background-color: aqua;
+    width: 200px;
+    margin-left: 30rem;
+}
